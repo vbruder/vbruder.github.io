@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gleb Tkachev on Valentin Bruder</title>
+    <link>https://vbruder.github.io/authors/gleb-tkachev/</link>
+    <description>Recent content in Gleb Tkachev on Valentin Bruder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://vbruder.github.io/authors/gleb-tkachev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prediction of Distributed Volume Visualization Performance to Support Render Hardware Acquisition</title>
+      <link>https://vbruder.github.io/publication/dblp-confegpgv-tkachev-fmbe-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://vbruder.github.io/publication/dblp-confegpgv-tkachev-fmbe-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

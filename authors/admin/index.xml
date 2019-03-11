@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Valentin Bruder</title>
+    <link>https://vbruder.github.io/authors/admin/</link>
+    <description>Recent content in admin on Valentin Bruder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 18:08:05 +0100</lastBuildDate>
+    
+	<atom:link href="https://vbruder.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://vbruder.github.io/author/admin/</link>
+      <pubDate>Mon, 11 Mar 2019 18:08:05 +0100</pubDate>
+      
+      <guid>https://vbruder.github.io/author/admin/</guid>
+      <description>I&amp;rsquo;m currently pursuing a PhD at the University of Stuttgart Visualization Research Center (VISUS). My research interests include new methods to assess, model, and predict performance of visual computing systems. Thereby, I focus on applications from the domain of scientific visualization because of their high demand on computational resources.
+I&amp;rsquo;m part of the collaborative research center SFB-TRR 161 on quantitative methods for visual computing (project A02).</description>
+    </item>
+    
+  </channel>
+</rss>
