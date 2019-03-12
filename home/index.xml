@@ -41,18 +41,6 @@ Star</description>
     </item>
     
     <item>
-      <title>Academic Kickstart</title>
-      <link>https://vbruder.github.io/home/demo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vbruder.github.io/home/demo/</guid>
-      <description>Welcome to the Academic Kickstart template!
-Follow our Getting Started and Page Builder guides to easily personalize the template and then add your own content.
-For inspiration, check out the Markdown files which power the personal demo. The easiest way to publish your new site to the internet is with Netlify.
- View the documentation Ask a question Request a feature or report a bug Updating? View the Update Guide and Release Notes Support development of Academic:  Donate a coffee Become a backer on Patreon Decorate your laptop or journal with an Academic sticker Wear the T-shirt   </description>
-    </item>
-    
-    <item>
       <title>Featured Publication</title>
       <link>https://vbruder.github.io/home/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -104,6 +92,24 @@ For inspiration, check out the Markdown files which power the personal demo. The
       
       <guid>https://vbruder.github.io/home/accomplishments/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://vbruder.github.io/home/demo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vbruder.github.io/home/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://vbruder.github.io/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vbruder.github.io/home/teaching/</guid>
+      <description> Advised student theses and projects  Foveated volume rendering (Bachelor) Generating field data with GANs for evaluation of visualization performance (Master) Encoding quality prediction for interactive remote visualisation (Master) Investigation of volume rendering performance through active learning and visual analysis (Master) GPU-accelerated rendering of dense light fields (Research module) Power efficiency for volume rendering on mobile devices (Research module) Investigation and prediction of performance of distributed volume rendering (Master)  Courses  Computer Graphics (winter 2018 / 19) Computer Graphics (winter 2017 / 18) Image Synthesis (summer 2017) Practical Course Visual Computing (winter 2016 / 17) Image Synthesis (summer 2016)  </description>
     </item>
     
     <item>
