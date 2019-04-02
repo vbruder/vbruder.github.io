@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://vbruder.github.io/authors/christoph-m%C3%BCller/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>On Evaluating Runtime Performance of Interactive Visualizations</title>
-      <link>https://vbruder.github.io/publication/8637795/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/publication/8637795/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Prediction of Distributed Volume Visualization Performance to Support Render Hardware Acquisition</title>

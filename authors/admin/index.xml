@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    <lastBuildDate>Tue, 12 Mar 2019 11:54:14 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2019 14:28:22 +0100</lastBuildDate>
     
 	<atom:link href="https://vbruder.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,10 @@
     <item>
       <title></title>
       <link>https://vbruder.github.io/author/admin/</link>
-      <pubDate>Tue, 12 Mar 2019 11:54:14 +0100</pubDate>
+      <pubDate>Tue, 19 Mar 2019 14:28:22 +0100</pubDate>
       
       <guid>https://vbruder.github.io/author/admin/</guid>
-      <description>I&amp;rsquo;m Valentin, a doctoral researcher at the University of Stuttgart Visualization Research Center (VISUS) and part of the collaborative research center SFB-TRR 161 on quantitative methods for visual computing. I develop new methods to assess, model, and predict performance of visual computing systems. Thereby, I focus on applications from the domain of scientific visualization because of their high demand on computational resources.</description>
+      <description>I&amp;rsquo;m a doctoral researcher at the University of Stuttgart Visualization Research Center (VISUS) and part of the collaborative research center SFB-TRR 161 on quantitative methods for visual computing. I develop new methods to assess, model, and predict performance of visual computing systems. Thereby, I focus on applications from the domain of scientific visualization.</description>
     </item>
     
   </channel>
