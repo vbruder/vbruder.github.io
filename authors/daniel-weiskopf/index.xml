@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://vbruder.github.io/authors/daniel-weiskopf/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>Space-Time Volume Visualization of Gaze and Stimulus</title>
       <link>https://vbruder.github.io/publication/dblp-confetra-bruder-kfwe-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://vbruder.github.io/publication/dblp-confetra-bruder-kfwe-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voronoi-Based Foveated Volume Rendering</title>
+      <link>https://vbruder.github.io/publication/bruder-sbfwe-19/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://vbruder.github.io/publication/bruder-sbfwe-19/</guid>
       <description></description>
     </item>
     

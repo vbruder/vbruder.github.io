@@ -7,42 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2019 11:54:42 +0200</lastBuildDate>
     
 	<atom:link href="https://vbruder.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Valentin Bruder</title>
+      <link>https://vbruder.github.io/authors/valentin-bruder/</link>
+      <pubDate>Sun, 20 Oct 2019 11:54:42 +0200</pubDate>
+      
+      <guid>https://vbruder.github.io/authors/valentin-bruder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Christoph Müller</title>
       <link>https://vbruder.github.io/authors/christoph-m%C3%BCller/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://vbruder.github.io/authors/christoph-m%C3%BCller/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Daniel Weiskopf</title>
-      <link>https://vbruder.github.io/authors/daniel-weiskopf/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/authors/daniel-weiskopf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kuno Kurzhals</title>
-      <link>https://vbruder.github.io/authors/kuno-kurzhals/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/authors/kuno-kurzhals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Steffen Frey</title>
       <link>https://vbruder.github.io/authors/steffen-frey/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://vbruder.github.io/authors/steffen-frey/</guid>
       <description></description>
@@ -51,18 +42,45 @@
     <item>
       <title>Thomas Ertl</title>
       <link>https://vbruder.github.io/authors/thomas-ertl/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <pubDate>Fri, 10 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://vbruder.github.io/authors/thomas-ertl/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Valentin Bruder</title>
-      <link>https://vbruder.github.io/authors/valentin-bruder/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
+      <title>Daniel Weiskopf</title>
+      <link>https://vbruder.github.io/authors/daniel-weiskopf/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://vbruder.github.io/authors/valentin-bruder/</guid>
+      <guid>https://vbruder.github.io/authors/daniel-weiskopf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kuno Kurzhals</title>
+      <link>https://vbruder.github.io/authors/kuno-kurzhals/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://vbruder.github.io/authors/kuno-kurzhals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christoph Schulz</title>
+      <link>https://vbruder.github.io/authors/christoph-schulz/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://vbruder.github.io/authors/christoph-schulz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruben Bauer</title>
+      <link>https://vbruder.github.io/authors/ruben-bauer/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://vbruder.github.io/authors/ruben-bauer/</guid>
       <description></description>
     </item>
     
@@ -105,7 +123,7 @@
     <item>
       <title>Gleb Tkachev</title>
       <link>https://vbruder.github.io/authors/gleb-tkachev/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0200</pubDate>
       
       <guid>https://vbruder.github.io/authors/gleb-tkachev/</guid>
       <description></description>
@@ -114,7 +132,7 @@
     <item>
       <title>Moritz Heinemann</title>
       <link>https://vbruder.github.io/authors/moritz-heinemann/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0200</pubDate>
       
       <guid>https://vbruder.github.io/authors/moritz-heinemann/</guid>
       <description></description>
