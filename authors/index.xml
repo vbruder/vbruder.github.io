@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://vbruder.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,65 +31,11 @@
     </item>
     
     <item>
-      <title>Florian Frieß</title>
-      <link>https://vbruder.github.io/authors/florian-frie%C3%9F/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/authors/florian-frie%C3%9F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gleb Tkachev</title>
-      <link>https://vbruder.github.io/authors/gleb-tkachev/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/authors/gleb-tkachev/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kuno Kurzhals</title>
       <link>https://vbruder.github.io/authors/kuno-kurzhals/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>https://vbruder.github.io/authors/kuno-kurzhals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marcel Hlawatsch</title>
-      <link>https://vbruder.github.io/authors/marcel-hlawatsch/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/authors/marcel-hlawatsch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matthias Landwehr Valentin Bruder</title>
-      <link>https://vbruder.github.io/authors/matthias-landwehr-valentin-bruder/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/authors/matthias-landwehr-valentin-bruder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael Burch</title>
-      <link>https://vbruder.github.io/authors/michael-burch/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/authors/michael-burch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moritz Heinemann</title>
-      <link>https://vbruder.github.io/authors/moritz-heinemann/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/authors/moritz-heinemann/</guid>
       <description></description>
     </item>
     
@@ -120,9 +67,63 @@
     </item>
     
     <item>
+      <title>Florian Frieß</title>
+      <link>https://vbruder.github.io/authors/florian-frie%C3%9F/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://vbruder.github.io/authors/florian-frie%C3%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcel Hlawatsch</title>
+      <link>https://vbruder.github.io/authors/marcel-hlawatsch/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://vbruder.github.io/authors/marcel-hlawatsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthias Landwehr Valentin Bruder</title>
+      <link>https://vbruder.github.io/authors/matthias-landwehr-valentin-bruder/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://vbruder.github.io/authors/matthias-landwehr-valentin-bruder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Burch</title>
+      <link>https://vbruder.github.io/authors/michael-burch/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://vbruder.github.io/authors/michael-burch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gleb Tkachev</title>
+      <link>https://vbruder.github.io/authors/gleb-tkachev/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://vbruder.github.io/authors/gleb-tkachev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moritz Heinemann</title>
+      <link>https://vbruder.github.io/authors/moritz-heinemann/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://vbruder.github.io/authors/moritz-heinemann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>admin</title>
       <link>https://vbruder.github.io/authors/admin/</link>
-      <pubDate>Tue, 02 Apr 2019 18:47:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://vbruder.github.io/authors/admin/</guid>
       <description></description>
