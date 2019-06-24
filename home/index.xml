@@ -41,7 +41,7 @@ Star</description>
     </item>
     
     <item>
-      <title>Featured Publication</title>
+      <title>Featured Publications</title>
       <link>https://vbruder.github.io/home/featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -104,12 +104,12 @@ Star</description>
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>https://vbruder.github.io/home/teaching/</link>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://vbruder.github.io/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vbruder.github.io/home/teaching/</guid>
-      <description> Advised student theses and projects          Foveated volume rendering Bachelor   Generating field data with GANs for evaluation of visualization performance Master   Encoding quality prediction for interactive remote visualization Master   Investigation of volume rendering performance through active learning and visual analysis Master   GPU-accelerated rendering of dense light fields Research Module   Power efficiency for volume rendering on mobile devices Research Module   Investigation and prediction of performance of distributed volume rendering Master    Courses          Realistic Real-Time Graphics (Seminar) Summer 2019   Computer Graphics Winter 2018 / 19   Computer Graphics Winter 2017 / 18   Image Synthesis Summer 2017   Practical Course Visual Computing Winter 2016 / 17   Image Synthesis Summer 2016    </description>
+      <guid>https://vbruder.github.io/home/talks/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -131,12 +131,12 @@ Star</description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://vbruder.github.io/home/talks/</link>
+      <title>Teaching</title>
+      <link>https://vbruder.github.io/home/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vbruder.github.io/home/talks/</guid>
-      <description></description>
+      <guid>https://vbruder.github.io/home/teaching/</guid>
+      <description> Advised student theses and projects          Foveated volume rendering Bachelor   Generating field data with GANs for evaluation of visualization performance Master   Encoding quality prediction for interactive remote visualization Master   Investigation of volume rendering performance through active learning and visual analysis Master   GPU-accelerated rendering of dense light fields Research Module   Power efficiency for volume rendering on mobile devices Research Module   Investigation and prediction of performance of distributed volume rendering Master    Courses          Realistic Real-Time Graphics (Seminar) Summer 2019   Computer Graphics Winter 2018 / 19   Computer Graphics Winter 2017 / 18   Image Synthesis Summer 2017   Practical Course Visual Computing Winter 2016 / 17   Image Synthesis Summer 2016    </description>
     </item>
     
     <item>

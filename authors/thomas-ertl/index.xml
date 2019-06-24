@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://vbruder.github.io/authors/thomas-ertl/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>On Evaluating Runtime Performance of Interactive Visualizations</title>
       <link>https://vbruder.github.io/publication/8637795/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
       
       <guid>https://vbruder.github.io/publication/8637795/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volume-Based Large Dynamic Graph Analytics Supported by Evolution Provenance</title>
+      <link>https://vbruder.github.io/publication/bruder-lhfbwhe-19/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://vbruder.github.io/publication/bruder-lhfbwhe-19/</guid>
       <description></description>
     </item>
     

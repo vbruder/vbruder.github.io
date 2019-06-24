@@ -22,9 +22,18 @@
     </item>
     
     <item>
+      <title>Kuno Kurzhals</title>
+      <link>https://vbruder.github.io/authors/kuno-kurzhals/</link>
+      <pubDate>Thu, 27 Jun 2019 10:00:00 +0200</pubDate>
+      
+      <guid>https://vbruder.github.io/authors/kuno-kurzhals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Christoph Müller</title>
       <link>https://vbruder.github.io/authors/christoph-m%C3%BCller/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
       
       <guid>https://vbruder.github.io/authors/christoph-m%C3%BCller/</guid>
       <description></description>
@@ -33,7 +42,7 @@
     <item>
       <title>Steffen Frey</title>
       <link>https://vbruder.github.io/authors/steffen-frey/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
       
       <guid>https://vbruder.github.io/authors/steffen-frey/</guid>
       <description></description>
@@ -42,7 +51,7 @@
     <item>
       <title>Thomas Ertl</title>
       <link>https://vbruder.github.io/authors/thomas-ertl/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
       
       <guid>https://vbruder.github.io/authors/thomas-ertl/</guid>
       <description></description>
@@ -51,18 +60,45 @@
     <item>
       <title>Daniel Weiskopf</title>
       <link>https://vbruder.github.io/authors/daniel-weiskopf/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0200</pubDate>
       
       <guid>https://vbruder.github.io/authors/daniel-weiskopf/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Kuno Kurzhals</title>
-      <link>https://vbruder.github.io/authors/kuno-kurzhals/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0200</pubDate>
+      <title>Houssem Ben Lahmar</title>
+      <link>https://vbruder.github.io/authors/houssem-ben-lahmar/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0200</pubDate>
       
-      <guid>https://vbruder.github.io/authors/kuno-kurzhals/</guid>
+      <guid>https://vbruder.github.io/authors/houssem-ben-lahmar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcel Hlawatsch</title>
+      <link>https://vbruder.github.io/authors/marcel-hlawatsch/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://vbruder.github.io/authors/marcel-hlawatsch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melanie Herschel</title>
+      <link>https://vbruder.github.io/authors/melanie-herschel/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://vbruder.github.io/authors/melanie-herschel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Burch</title>
+      <link>https://vbruder.github.io/authors/michael-burch/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://vbruder.github.io/authors/michael-burch/</guid>
       <description></description>
     </item>
     
@@ -94,29 +130,11 @@
     </item>
     
     <item>
-      <title>Marcel Hlawatsch</title>
-      <link>https://vbruder.github.io/authors/marcel-hlawatsch/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/authors/marcel-hlawatsch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Matthias Landwehr Valentin Bruder</title>
       <link>https://vbruder.github.io/authors/matthias-landwehr-valentin-bruder/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
       
       <guid>https://vbruder.github.io/authors/matthias-landwehr-valentin-bruder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Michael Burch</title>
-      <link>https://vbruder.github.io/authors/michael-burch/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/authors/michael-burch/</guid>
       <description></description>
     </item>
     

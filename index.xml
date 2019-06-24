@@ -19,20 +19,38 @@
     </item>
     
     <item>
-      <title>Voronoi-Based Foveated Volume Rendering</title>
-      <link>https://vbruder.github.io/talk/2019-eurovis/</link>
-      <pubDate>Wed, 05 Jun 2019 11:10:00 +0200</pubDate>
+      <title>Space-Time Volume Visualization of Gaze and Stimulus</title>
+      <link>https://vbruder.github.io/talk/2019-etra/</link>
+      <pubDate>Thu, 27 Jun 2019 10:00:00 +0200</pubDate>
       
-      <guid>https://vbruder.github.io/talk/2019-eurovis/</guid>
+      <guid>https://vbruder.github.io/talk/2019-etra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Evaluating Runtime Performance of Interactive Visualizations</title>
       <link>https://vbruder.github.io/publication/8637795/</link>
-      <pubDate>Fri, 10 May 2019 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0200</pubDate>
       
       <guid>https://vbruder.github.io/publication/8637795/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volume-Based Large Dynamic Graph Analytics Supported by Evolution Provenance</title>
+      <link>https://vbruder.github.io/publication/bruder-lhfbwhe-19/</link>
+      <pubDate>Sun, 23 Jun 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://vbruder.github.io/publication/bruder-lhfbwhe-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voronoi-Based Foveated Volume Rendering</title>
+      <link>https://vbruder.github.io/talk/2019-eurovis/</link>
+      <pubDate>Wed, 05 Jun 2019 11:10:00 +0200</pubDate>
+      
+      <guid>https://vbruder.github.io/talk/2019-eurovis/</guid>
       <description></description>
     </item>
     
