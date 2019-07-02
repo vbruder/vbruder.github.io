@@ -38,86 +38,7 @@
     
     <url>
     
-      <loc>https://vbruder.github.io/authors/kuno-kurzhals/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/talk/2019-etra/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://vbruder.github.io/publication_types/2/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/christoph-m%C3%BCller/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication/8637795/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication_types/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/tags/rendering-computer-graphicsperformance-evaluationdata-visualizationcomputational-modelingruntimebenchmark-testingbest-practicesperformance-evaluationscientific-visualizationvolume-renderingparticle-rendering/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/steffen-frey/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/tags/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/thomas-ertl/</loc>
       <lastmod>2019-06-24T15:50:52+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -171,7 +92,51 @@
     
     <url>
     
+      <loc>https://vbruder.github.io/publication_types/</loc>
+      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vbruder.github.io/authors/steffen-frey/</loc>
+      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vbruder.github.io/authors/thomas-ertl/</loc>
+      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vbruder.github.io/publication/bruder-lhfbwhe-19/</loc>
+      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vbruder.github.io/authors/kuno-kurzhals/</loc>
+      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vbruder.github.io/talk/2019-etra/</loc>
       <lastmod>2019-06-24T15:50:52+02:00</lastmod>
     </url>
     
@@ -196,14 +161,6 @@
     
     <url>
     
-      <loc>https://vbruder.github.io/publication/dblp-confetra-bruder-kfwe-19/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://vbruder.github.io/authors/christoph-schulz/</loc>
       <lastmod>2019-06-24T15:50:52+02:00</lastmod>
       <priority>0</priority>
@@ -216,6 +173,14 @@
       <loc>https://vbruder.github.io/authors/ruben-bauer/</loc>
       <lastmod>2019-06-24T15:50:52+02:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vbruder.github.io/publication/dblp-confetra-bruder-kfwe-19/</loc>
+      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
     </url>
     
   
@@ -247,6 +212,41 @@
     
     <url>
     
+      <loc>https://vbruder.github.io/authors/christoph-m%C3%BCller/</loc>
+      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vbruder.github.io/publication/8637795/</loc>
+      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vbruder.github.io/tags/rendering-computer-graphicsperformance-evaluationdata-visualizationcomputational-modelingruntimebenchmark-testingbest-practicesperformance-evaluationscientific-visualizationvolume-renderingparticle-rendering/</loc>
+      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vbruder.github.io/tags/</loc>
+      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://vbruder.github.io/publication/dblp-confldav-friess-lbfe-18/</loc>
       <lastmod>2019-04-02T18:47:00+02:00</lastmod>
     </url>
@@ -264,7 +264,7 @@
     
     <url>
     
-      <loc>https://vbruder.github.io/authors/matthias-landwehr-valentin-bruder/</loc>
+      <loc>https://vbruder.github.io/authors/mathias-landwehr/</loc>
       <lastmod>2019-04-02T18:47:00+02:00</lastmod>
       <priority>0</priority>
     </url>
@@ -281,25 +281,9 @@
     
     <url>
     
-      <loc>https://vbruder.github.io/publication/dblp-journalsvi-bruder-fe-17/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://vbruder.github.io/authors/gleb-tkachev/</loc>
       <lastmod>2019-05-13T11:51:40+02:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication/dblp-confegpgv-tkachev-fmbe-17/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
     </url>
     
   
@@ -316,6 +300,22 @@
     <url>
     
       <loc>https://vbruder.github.io/publication/dblp-confvissym-heinemann-bfe-17/</loc>
+      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vbruder.github.io/publication/dblp-confegpgv-tkachev-fmbe-17/</loc>
+      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://vbruder.github.io/publication/dblp-journalsvi-bruder-fe-17/</loc>
       <lastmod>2019-05-13T11:51:40+02:00</lastmod>
     </url>
     
