@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Valentin Bruder</title>
+    <title>2 | Valentin Bruder</title>
     <link>https://vbruder.github.io/publication_types/2/</link>
-    <description>Recent content in 2 on Valentin Bruder</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://vbruder.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://vbruder.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Valentin Bruder</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vbruder.github.io/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://vbruder.github.io/publication_types/2/</link>
+    </image>
     
     <item>
       <title>Volume-Based Large Dynamic Graph Analytics Supported by Evolution Provenance</title>
       <link>https://vbruder.github.io/publication/bruder-lhfbwhe-19/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/publication/bruder-lhfbwhe-19/</guid>
       <description></description>
     </item>
@@ -25,7 +24,6 @@
       <title>On Evaluating Runtime Performance of Interactive Visualizations</title>
       <link>https://vbruder.github.io/publication/8637795/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://vbruder.github.io/publication/8637795/</guid>
       <description></description>
     </item>
@@ -33,8 +31,7 @@
     <item>
       <title>Prediction-based load balancing and resolution tuning for interactive volume raycasting</title>
       <link>https://vbruder.github.io/publication/dblp-journalsvi-bruder-fe-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/publication/dblp-journalsvi-bruder-fe-17/</guid>
       <description></description>
     </item>

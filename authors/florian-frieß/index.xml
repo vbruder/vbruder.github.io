@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Florian Frieß on Valentin Bruder</title>
+    <title>Florian Frieß | Valentin Bruder</title>
     <link>https://vbruder.github.io/authors/florian-frie%C3%9F/</link>
-    <description>Recent content in Florian Frieß on Valentin Bruder</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://vbruder.github.io/authors/florian-frie%C3%9F/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://vbruder.github.io/authors/florian-frie%C3%9F/index.xml" rel="self" type="application/rss+xml" />
+    <description>Florian Frieß</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Valentin Bruder</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vbruder.github.io/img/icon-192.png</url>
+      <title>Florian Frieß</title>
+      <link>https://vbruder.github.io/authors/florian-frie%C3%9F/</link>
+    </image>
     
     <item>
       <title>Adaptive Encoder Settings for Interactive Remote Visualisation on High-Resolution Displays</title>
       <link>https://vbruder.github.io/publication/dblp-confldav-friess-lbfe-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/publication/dblp-confldav-friess-lbfe-18/</guid>
       <description></description>
     </item>

@@ -1,353 +1,219 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/admin/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/talk/2019-scivis/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/talk/2019-scivis/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/valentin-bruder/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication_types/2/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/publication_types/2/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/daniel-weiskopf/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/daniel-weiskopf/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/houssem-ben-lahmar/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/houssem-ben-lahmar/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/marcel-hlawatsch/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/marcel-hlawatsch/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/melanie-herschel/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/melanie-herschel/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/michael-burch/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/michael-burch/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication_types/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/publication_types/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/steffen-frey/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/steffen-frey/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/thomas-ertl/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/thomas-ertl/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication/bruder-lhfbwhe-19/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/publication/bruder-lhfbwhe-19/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/kuno-kurzhals/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/kuno-kurzhals/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/talk/2019-etra/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/talk/2019-etra/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/talk/2019-eurovis/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/talk/2019-eurovis/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication_types/1/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/publication_types/1/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/christoph-schulz/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/christoph-schulz/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/ruben-bauer/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/ruben-bauer/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication/dblp-confetra-bruder-kfwe-19/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/publication/dblp-confetra-bruder-kfwe-19/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication/bruder-sbfwe-19/</loc>
-      <lastmod>2019-06-24T15:50:52+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/publication/bruder-sbfwe-19/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/project/</loc>
-      <lastmod>2019-03-11T19:52:59+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/project/</loc>
+    <lastmod>2019-03-11T19:52:59+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/project/trrojan/</loc>
-      <lastmod>2019-03-11T19:52:59+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/project/trrojan/</loc>
+    <lastmod>2019-03-11T19:52:59+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/christoph-m%C3%BCller/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/christoph-m%C3%BCller/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication/8637795/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/publication/8637795/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/tags/rendering-computer-graphicsperformance-evaluationdata-visualizationcomputational-modelingruntimebenchmark-testingbest-practicesperformance-evaluationscientific-visualizationvolume-renderingparticle-rendering/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/tags/rendering-computer-graphicsperformance-evaluationdata-visualizationcomputational-modelingruntimebenchmark-testingbest-practicesperformance-evaluationscientific-visualizationvolume-renderingparticle-rendering/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/tags/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/tags/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication/dblp-confldav-friess-lbfe-18/</loc>
-      <lastmod>2019-04-02T18:47:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/valentin-bruder/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/florian-frie%C3%9F/</loc>
-      <lastmod>2019-04-02T18:47:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/publication/dblp-confldav-friess-lbfe-18/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/mathias-landwehr/</loc>
-      <lastmod>2019-04-02T18:47:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/florian-frie%C3%9F/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication/dblp-confiv-bruder-hfbwe-18/</loc>
-      <lastmod>2019-04-02T18:47:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/mathias-landwehr/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/gleb-tkachev/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/publication/dblp-confiv-bruder-hfbwe-18/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/authors/moritz-heinemann/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/gleb-tkachev/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication/dblp-confvissym-heinemann-bfe-17/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/authors/moritz-heinemann/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication/dblp-confegpgv-tkachev-fmbe-17/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/publication/dblp-confvissym-heinemann-bfe-17/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication/dblp-journalsvi-bruder-fe-17/</loc>
-      <lastmod>2019-05-13T11:51:40+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/publication/dblp-confegpgv-tkachev-fmbe-17/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication/dblp-confsiggraph-bruder-fe-16/</loc>
-      <lastmod>2019-03-11T16:51:52+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/publication/dblp-journalsvi-bruder-fe-17/</loc>
+    <lastmod>2019-09-12T11:51:26+02:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/author/admin/</loc>
-      <lastmod>2019-05-13T10:45:28+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/publication/dblp-confsiggraph-bruder-fe-16/</loc>
+    <lastmod>2019-03-11T16:51:52+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/author/</loc>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/categories/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/categories/</loc>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/post/</loc>
+    <lastmod>2019-02-04T22:42:51+00:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/post/</loc>
-      <lastmod>2019-02-04T22:42:51+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/publication/</loc>
+    <lastmod>2019-03-11T16:51:52+01:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/publication/</loc>
-      <lastmod>2019-03-11T16:51:52+01:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://vbruder.github.io/talk/</loc>
-      <lastmod>2019-04-02T18:47:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://vbruder.github.io/talk/</loc>
+    <lastmod>2019-04-02T18:47:00+02:00</lastmod>
+  </url>
   
 </urlset>

@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Melanie Herschel on Valentin Bruder</title>
+    <title>Melanie Herschel | Valentin Bruder</title>
     <link>https://vbruder.github.io/authors/melanie-herschel/</link>
-    <description>Recent content in Melanie Herschel on Valentin Bruder</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://vbruder.github.io/authors/melanie-herschel/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://vbruder.github.io/authors/melanie-herschel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Melanie Herschel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Valentin Bruder</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vbruder.github.io/img/icon-192.png</url>
+      <title>Melanie Herschel</title>
+      <link>https://vbruder.github.io/authors/melanie-herschel/</link>
+    </image>
     
     <item>
       <title>Volume-Based Large Dynamic Graph Analytics Supported by Evolution Provenance</title>
       <link>https://vbruder.github.io/publication/bruder-lhfbwhe-19/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/publication/bruder-lhfbwhe-19/</guid>
       <description></description>
     </item>

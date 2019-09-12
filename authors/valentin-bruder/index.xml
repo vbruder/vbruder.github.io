@@ -3,65 +3,19 @@
   <channel>
     <title>Valentin Bruder</title>
     <link>https://vbruder.github.io/authors/valentin-bruder/</link>
-    <description>Recent content on Valentin Bruder</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    <lastBuildDate>Wed, 23 Oct 2019 10:50:00 -0700</lastBuildDate>
-    
-	<atom:link href="https://vbruder.github.io/authors/valentin-bruder/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>On Evaluating Runtime Performance of Interactive Visualizations</title>
-      <link>https://vbruder.github.io/talk/2019-scivis/</link>
-      <pubDate>Wed, 23 Oct 2019 10:50:00 -0700</pubDate>
-      
-      <guid>https://vbruder.github.io/talk/2019-scivis/</guid>
-      <description>Presentation of our Transactions on Visualization and Computer Graphics paper.</description>
-    </item>
-    
-    <item>
-      <title>Volume-Based Large Dynamic Graph Analytics Supported by Evolution Provenance</title>
-      <link>https://vbruder.github.io/publication/bruder-lhfbwhe-19/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://vbruder.github.io/publication/bruder-lhfbwhe-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Voronoi-Based Foveated Volume Rendering</title>
-      <link>https://vbruder.github.io/talk/2019-eurovis/</link>
-      <pubDate>Wed, 05 Jun 2019 11:10:00 +0200</pubDate>
-      
-      <guid>https://vbruder.github.io/talk/2019-eurovis/</guid>
-      <description>Presentation of our EuroVis 2019 short paper.</description>
-    </item>
-    
-    <item>
-      <title>Space-time volume visualization of gaze and stimulus</title>
-      <link>https://vbruder.github.io/publication/dblp-confetra-bruder-kfwe-19/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://vbruder.github.io/publication/dblp-confetra-bruder-kfwe-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Voronoi-Based Foveated Volume Rendering</title>
-      <link>https://vbruder.github.io/publication/bruder-sbfwe-19/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://vbruder.github.io/publication/bruder-sbfwe-19/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://vbruder.github.io/authors/valentin-bruder/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valentin Bruder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Valentin Bruder</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://vbruder.github.io/img/icon-192.png</url>
+      <title>Valentin Bruder</title>
+      <link>https://vbruder.github.io/authors/valentin-bruder/</link>
+    </image>
     
     <item>
       <title>On Evaluating Runtime Performance of Interactive Visualizations</title>
       <link>https://vbruder.github.io/publication/8637795/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://vbruder.github.io/publication/8637795/</guid>
       <description></description>
     </item>
@@ -69,54 +23,8 @@
     <item>
       <title>Adaptive Encoder Settings for Interactive Remote Visualisation on High-Resolution Displays</title>
       <link>https://vbruder.github.io/publication/dblp-confldav-friess-lbfe-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/publication/dblp-confldav-friess-lbfe-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Volume-Based Large Dynamic Graph Analytics</title>
-      <link>https://vbruder.github.io/publication/dblp-confiv-bruder-hfbwe-18/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/publication/dblp-confiv-bruder-hfbwe-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Power Efficiency of Volume Raycasting on Mobile Devices</title>
-      <link>https://vbruder.github.io/publication/dblp-confvissym-heinemann-bfe-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/publication/dblp-confvissym-heinemann-bfe-17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prediction of Distributed Volume Visualization Performance to Support Render Hardware Acquisition</title>
-      <link>https://vbruder.github.io/publication/dblp-confegpgv-tkachev-fmbe-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/publication/dblp-confegpgv-tkachev-fmbe-17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prediction-based load balancing and resolution tuning for interactive volume raycasting</title>
-      <link>https://vbruder.github.io/publication/dblp-journalsvi-bruder-fe-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/publication/dblp-journalsvi-bruder-fe-17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Real-time performance prediction and tuning for interactive volume raycasting</title>
-      <link>https://vbruder.github.io/publication/dblp-confsiggraph-bruder-fe-16/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://vbruder.github.io/publication/dblp-confsiggraph-bruder-fe-16/</guid>
       <description></description>
     </item>
     

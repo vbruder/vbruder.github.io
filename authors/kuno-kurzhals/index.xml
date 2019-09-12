@@ -1,31 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kuno Kurzhals on Valentin Bruder</title>
+    <title>Kuno Kurzhals | Valentin Bruder</title>
     <link>https://vbruder.github.io/authors/kuno-kurzhals/</link>
-    <description>Recent content in Kuno Kurzhals on Valentin Bruder</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    <lastBuildDate>Thu, 27 Jun 2019 10:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://vbruder.github.io/authors/kuno-kurzhals/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://vbruder.github.io/authors/kuno-kurzhals/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kuno Kurzhals</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Valentin Bruder</copyright><lastBuildDate>Thu, 27 Jun 2019 10:00:00 +0200</lastBuildDate>
+    <image>
+      <url>https://vbruder.github.io/img/icon-192.png</url>
+      <title>Kuno Kurzhals</title>
+      <link>https://vbruder.github.io/authors/kuno-kurzhals/</link>
+    </image>
     
     <item>
       <title>Space-Time Volume Visualization of Gaze and Stimulus</title>
       <link>https://vbruder.github.io/talk/2019-etra/</link>
       <pubDate>Thu, 27 Jun 2019 10:00:00 +0200</pubDate>
-      
       <guid>https://vbruder.github.io/talk/2019-etra/</guid>
-      <description>Presentation of our ETRA 2019 paper.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Space-time volume visualization of gaze and stimulus</title>
       <link>https://vbruder.github.io/publication/dblp-confetra-bruder-kfwe-19/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/publication/dblp-confetra-bruder-kfwe-19/</guid>
       <description></description>
     </item>

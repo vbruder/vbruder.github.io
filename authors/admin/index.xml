@@ -1,23 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on Valentin Bruder</title>
+    <title>Valentin Bruder</title>
     <link>https://vbruder.github.io/authors/admin/</link>
-    <description>Recent content in admin on Valentin Bruder</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    
-	<atom:link href="https://vbruder.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://vbruder.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Valentin Bruder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Valentin Bruder</copyright><lastBuildDate>Wed, 23 Oct 2019 10:50:00 -0700</lastBuildDate>
+    <image>
+      <url>https://vbruder.github.io/img/icon-192.png</url>
+      <title>Valentin Bruder</title>
+      <link>https://vbruder.github.io/authors/admin/</link>
+    </image>
     
     <item>
-      <title></title>
-      <link>https://vbruder.github.io/author/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vbruder.github.io/author/admin/</guid>
-      <description>I&amp;rsquo;m a doctoral researcher at the University of Stuttgart Visualization Research Center (VISUS) and part of the collaborative research center SFB-TRR 161 on quantitative methods for visual computing. I develop new methods to assess, model, and predict performance of visual computing systems. Thereby, I focus on applications from the domain of scientific visualization.</description>
+      <title>On Evaluating Runtime Performance of Interactive Visualizations</title>
+      <link>https://vbruder.github.io/talk/2019-scivis/</link>
+      <pubDate>Wed, 23 Oct 2019 10:50:00 -0700</pubDate>
+      <guid>https://vbruder.github.io/talk/2019-scivis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volume-Based Large Dynamic Graph Analytics Supported by Evolution Provenance</title>
+      <link>https://vbruder.github.io/publication/bruder-lhfbwhe-19/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://vbruder.github.io/publication/bruder-lhfbwhe-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voronoi-Based Foveated Volume Rendering</title>
+      <link>https://vbruder.github.io/talk/2019-eurovis/</link>
+      <pubDate>Wed, 05 Jun 2019 11:10:00 +0200</pubDate>
+      <guid>https://vbruder.github.io/talk/2019-eurovis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space-time volume visualization of gaze and stimulus</title>
+      <link>https://vbruder.github.io/publication/dblp-confetra-bruder-kfwe-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://vbruder.github.io/publication/dblp-confetra-bruder-kfwe-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voronoi-Based Foveated Volume Rendering</title>
+      <link>https://vbruder.github.io/publication/bruder-sbfwe-19/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://vbruder.github.io/publication/bruder-sbfwe-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volume-Based Large Dynamic Graph Analytics</title>
+      <link>https://vbruder.github.io/publication/dblp-confiv-bruder-hfbwe-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://vbruder.github.io/publication/dblp-confiv-bruder-hfbwe-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Efficiency of Volume Raycasting on Mobile Devices</title>
+      <link>https://vbruder.github.io/publication/dblp-confvissym-heinemann-bfe-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vbruder.github.io/publication/dblp-confvissym-heinemann-bfe-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction of Distributed Volume Visualization Performance to Support Render Hardware Acquisition</title>
+      <link>https://vbruder.github.io/publication/dblp-confegpgv-tkachev-fmbe-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vbruder.github.io/publication/dblp-confegpgv-tkachev-fmbe-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction-based load balancing and resolution tuning for interactive volume raycasting</title>
+      <link>https://vbruder.github.io/publication/dblp-journalsvi-bruder-fe-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vbruder.github.io/publication/dblp-journalsvi-bruder-fe-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time performance prediction and tuning for interactive volume raycasting</title>
+      <link>https://vbruder.github.io/publication/dblp-confsiggraph-bruder-fe-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://vbruder.github.io/publication/dblp-confsiggraph-bruder-fe-16/</guid>
+      <description></description>
     </item>
     
   </channel>

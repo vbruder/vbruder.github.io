@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Christoph Müller on Valentin Bruder</title>
+    <title>Christoph Müller | Valentin Bruder</title>
     <link>https://vbruder.github.io/authors/christoph-m%C3%BCller/</link>
-    <description>Recent content in Christoph Müller on Valentin Bruder</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://vbruder.github.io/authors/christoph-m%C3%BCller/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://vbruder.github.io/authors/christoph-m%C3%BCller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christoph Müller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Valentin Bruder</copyright><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://vbruder.github.io/img/icon-192.png</url>
+      <title>Christoph Müller</title>
+      <link>https://vbruder.github.io/authors/christoph-m%C3%BCller/</link>
+    </image>
     
     <item>
       <title>On Evaluating Runtime Performance of Interactive Visualizations</title>
       <link>https://vbruder.github.io/publication/8637795/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://vbruder.github.io/publication/8637795/</guid>
       <description></description>
     </item>
@@ -24,8 +23,7 @@
     <item>
       <title>Prediction of Distributed Volume Visualization Performance to Support Render Hardware Acquisition</title>
       <link>https://vbruder.github.io/publication/dblp-confegpgv-tkachev-fmbe-17/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/publication/dblp-confegpgv-tkachev-fmbe-17/</guid>
       <description></description>
     </item>

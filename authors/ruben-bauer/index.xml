@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ruben Bauer on Valentin Bruder</title>
+    <title>Ruben Bauer | Valentin Bruder</title>
     <link>https://vbruder.github.io/authors/ruben-bauer/</link>
-    <description>Recent content in Ruben Bauer on Valentin Bruder</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://vbruder.github.io/authors/ruben-bauer/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://vbruder.github.io/authors/ruben-bauer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruben Bauer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Valentin Bruder</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vbruder.github.io/img/icon-192.png</url>
+      <title>Ruben Bauer</title>
+      <link>https://vbruder.github.io/authors/ruben-bauer/</link>
+    </image>
     
     <item>
       <title>Voronoi-Based Foveated Volume Rendering</title>
       <link>https://vbruder.github.io/publication/bruder-sbfwe-19/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/publication/bruder-sbfwe-19/</guid>
       <description></description>
     </item>

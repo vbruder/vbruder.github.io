@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Valentin Bruder</title>
+    <title>Authors | Valentin Bruder</title>
     <link>https://vbruder.github.io/authors/</link>
-    <description>Recent content in Authors on Valentin Bruder</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    <lastBuildDate>Wed, 23 Oct 2019 10:50:00 -0700</lastBuildDate>
-    
-	<atom:link href="https://vbruder.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://vbruder.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Valentin Bruder</copyright><lastBuildDate>Wed, 23 Oct 2019 10:50:00 -0700</lastBuildDate>
+    <image>
+      <url>https://vbruder.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://vbruder.github.io/authors/</link>
+    </image>
     
     <item>
-      <title>Valentin Bruder</title>
-      <link>https://vbruder.github.io/authors/valentin-bruder/</link>
+      <title></title>
+      <link>https://vbruder.github.io/authors/admin/</link>
       <pubDate>Wed, 23 Oct 2019 10:50:00 -0700</pubDate>
-      
-      <guid>https://vbruder.github.io/authors/valentin-bruder/</guid>
-      <description></description>
+      <guid>https://vbruder.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a doctoral researcher at the University of Stuttgart Visualization Research Center (VISUS) and part of the collaborative research center &lt;a href=&#34;http://www.sfbtrr161.de/research/project_a02/index.html&#34; target=&#34;_blank&#34;&gt;SFB-TRR 161&lt;/a&gt; on quantitative methods for visual computing.
+I develop new methods to assess, model, and predict performance of visual computing systems.
+Thereby, I focus on applications from the domain of scientific visualization.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Daniel Weiskopf</title>
       <link>https://vbruder.github.io/authors/daniel-weiskopf/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/authors/daniel-weiskopf/</guid>
       <description></description>
     </item>
@@ -33,8 +34,7 @@
     <item>
       <title>Houssem Ben Lahmar</title>
       <link>https://vbruder.github.io/authors/houssem-ben-lahmar/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/authors/houssem-ben-lahmar/</guid>
       <description></description>
     </item>
@@ -42,8 +42,7 @@
     <item>
       <title>Marcel Hlawatsch</title>
       <link>https://vbruder.github.io/authors/marcel-hlawatsch/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/authors/marcel-hlawatsch/</guid>
       <description></description>
     </item>
@@ -51,8 +50,7 @@
     <item>
       <title>Melanie Herschel</title>
       <link>https://vbruder.github.io/authors/melanie-herschel/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/authors/melanie-herschel/</guid>
       <description></description>
     </item>
@@ -60,8 +58,7 @@
     <item>
       <title>Michael Burch</title>
       <link>https://vbruder.github.io/authors/michael-burch/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/authors/michael-burch/</guid>
       <description></description>
     </item>
@@ -69,8 +66,7 @@
     <item>
       <title>Steffen Frey</title>
       <link>https://vbruder.github.io/authors/steffen-frey/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/authors/steffen-frey/</guid>
       <description></description>
     </item>
@@ -78,8 +74,7 @@
     <item>
       <title>Thomas Ertl</title>
       <link>https://vbruder.github.io/authors/thomas-ertl/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/authors/thomas-ertl/</guid>
       <description></description>
     </item>
@@ -88,7 +83,6 @@
       <title>Kuno Kurzhals</title>
       <link>https://vbruder.github.io/authors/kuno-kurzhals/</link>
       <pubDate>Thu, 27 Jun 2019 10:00:00 +0200</pubDate>
-      
       <guid>https://vbruder.github.io/authors/kuno-kurzhals/</guid>
       <description></description>
     </item>
@@ -96,8 +90,7 @@
     <item>
       <title>Christoph Schulz</title>
       <link>https://vbruder.github.io/authors/christoph-schulz/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/authors/christoph-schulz/</guid>
       <description></description>
     </item>
@@ -105,8 +98,7 @@
     <item>
       <title>Ruben Bauer</title>
       <link>https://vbruder.github.io/authors/ruben-bauer/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0200</pubDate>
-      
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/authors/ruben-bauer/</guid>
       <description></description>
     </item>
@@ -115,16 +107,22 @@
       <title>Christoph Müller</title>
       <link>https://vbruder.github.io/authors/christoph-m%C3%BCller/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
-      
       <guid>https://vbruder.github.io/authors/christoph-m%C3%BCller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valentin Bruder</title>
+      <link>https://vbruder.github.io/authors/valentin-bruder/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>https://vbruder.github.io/authors/valentin-bruder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Florian Frieß</title>
       <link>https://vbruder.github.io/authors/florian-frie%C3%9F/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/authors/florian-frie%C3%9F/</guid>
       <description></description>
     </item>
@@ -132,8 +130,7 @@
     <item>
       <title>Mathias Landwehr</title>
       <link>https://vbruder.github.io/authors/mathias-landwehr/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0100</pubDate>
-      
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/authors/mathias-landwehr/</guid>
       <description></description>
     </item>
@@ -141,8 +138,7 @@
     <item>
       <title>Gleb Tkachev</title>
       <link>https://vbruder.github.io/authors/gleb-tkachev/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/authors/gleb-tkachev/</guid>
       <description></description>
     </item>
@@ -150,8 +146,7 @@
     <item>
       <title>Moritz Heinemann</title>
       <link>https://vbruder.github.io/authors/moritz-heinemann/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
-      
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://vbruder.github.io/authors/moritz-heinemann/</guid>
       <description></description>
     </item>

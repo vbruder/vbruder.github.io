@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Valentin Bruder</title>
+    <title>Categories | Valentin Bruder</title>
     <link>https://vbruder.github.io/categories/</link>
-    <description>Recent content in Categories on Valentin Bruder</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    
-	<atom:link href="https://vbruder.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://vbruder.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Valentin Bruder</copyright>
+    <image>
+      <url>https://vbruder.github.io/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://vbruder.github.io/categories/</link>
+    </image>
     
   </channel>
 </rss>
