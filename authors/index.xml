@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Valentin Bruder</copyright>
-    <lastBuildDate>Sun, 20 Oct 2019 11:54:42 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2019 10:50:00 -0700</lastBuildDate>
     
 	<atom:link href="https://vbruder.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Valentin Bruder</title>
       <link>https://vbruder.github.io/authors/valentin-bruder/</link>
-      <pubDate>Sun, 20 Oct 2019 11:54:42 +0200</pubDate>
+      <pubDate>Wed, 23 Oct 2019 10:50:00 -0700</pubDate>
       
       <guid>https://vbruder.github.io/authors/valentin-bruder/</guid>
       <description></description>
@@ -153,15 +153,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
       <guid>https://vbruder.github.io/authors/moritz-heinemann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>admin</title>
-      <link>https://vbruder.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://vbruder.github.io/authors/admin/</guid>
       <description></description>
     </item>
     
