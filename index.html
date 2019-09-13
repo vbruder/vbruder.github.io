@@ -141,6 +141,32 @@
 
   
 
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+  window.addEventListener("load", function(){
+    window.cookieconsent.initialise({
+      "palette": {
+        "popup": {
+          "background": "#3daee9",
+          "text": "#fff"
+        },
+        "button": {
+          "background": "#fff",
+          "text": "#3daee9"
+        }
+      },
+      "theme": "classic",
+      "content": {
+        "message": "This website uses cookies to ensure you get the best experience on our website.",
+        "dismiss": "Got it!",
+        "link": "Learn more",
+        "href": "https://cookies.insites.com"
+      }
+    })});
+</script>
+
+
 
   
 
@@ -1784,7 +1810,7 @@ Thereby, I focus on applications from the domain of scientific visualization.</p
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="http://localhost:1313/publication/8637795/8637795.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/8637795/8637795.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
