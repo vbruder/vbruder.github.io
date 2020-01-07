@@ -5,7 +5,7 @@
     <link>https://vbruder.github.io/project/</link>
       <atom:link href="https://vbruder.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Valentin Bruder</copyright><lastBuildDate>Mon, 11 Mar 2019 17:22:24 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Valentin Bruder</copyright><lastBuildDate>Mon, 11 Mar 2019 17:22:24 +0100</lastBuildDate>
     <image>
       <url>https://vbruder.github.io/img/icon-192.png</url>
       <title>Projects</title>
@@ -17,7 +17,7 @@
       <link>https://vbruder.github.io/project/trrojan/</link>
       <pubDate>Mon, 11 Mar 2019 17:22:24 +0100</pubDate>
       <guid>https://vbruder.github.io/project/trrojan/</guid>
-      <description>&lt;p&gt;We developed the TRRojan framework for systematic empirical evaluation of the performance of visual computing algorithms. The TRRojan is designed to effectively carry out quantitative benchmarks in a clean, reproducible, and easy-to-use manner. It uses a plugin architecture for simple extensibility with additional applications. The framework is published as open source software (MIT licence) and the data we obtained during measurements, as well as additional information can be found on the &lt;a href=&#34;http://trrojan.visus.uni-stuttgart.de&#34; target=&#34;_blank&#34;&gt;project site&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;We developed the TRRojan framework for systematic empirical evaluation of the performance of visual computing algorithms. The TRRojan is designed to effectively carry out quantitative benchmarks in a clean, reproducible, and easy-to-use manner. It uses a plugin architecture for simple extensibility with additional applications. The framework is published as open source software (MIT licence) and the data we obtained during measurements, as well as additional information can be found on the &lt;a href=&#34;http://trrojan.visus.uni-stuttgart.de&#34;&gt;project site&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

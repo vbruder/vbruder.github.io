@@ -5,7 +5,7 @@
     <link>https://vbruder.github.io/authors/</link>
       <atom:link href="https://vbruder.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Valentin Bruder</copyright><lastBuildDate>Wed, 23 Oct 2019 10:50:00 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Valentin Bruder</copyright><lastBuildDate>Wed, 23 Oct 2019 10:50:00 -0700</lastBuildDate>
     <image>
       <url>https://vbruder.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -17,7 +17,7 @@
       <link>https://vbruder.github.io/authors/admin/</link>
       <pubDate>Wed, 23 Oct 2019 10:50:00 -0700</pubDate>
       <guid>https://vbruder.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a doctoral researcher at the University of Stuttgart Visualization Research Center (VISUS) and part of the collaborative research center &lt;a href=&#34;http://www.sfbtrr161.de/research/project_a02/index.html&#34; target=&#34;_blank&#34;&gt;SFB-TRR 161&lt;/a&gt; on quantitative methods for visual computing.
+      <description>&lt;p&gt;I&#39;m a doctoral researcher at the University of Stuttgart Visualization Research Center (VISUS) and part of the collaborative research center &lt;a href=&#34;http://www.sfbtrr161.de/research/project_a02/index.html&#34;&gt;SFB-TRR 161&lt;/a&gt; on quantitative methods for visual computing.
 I develop new methods to assess, model, and predict performance of visual computing systems.
 Thereby, I focus on applications from the domain of scientific visualization.&lt;/p&gt;
 </description>
